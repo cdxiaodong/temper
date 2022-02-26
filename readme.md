@@ -1,3 +1,7 @@
+我个人的temper注释，用于理解teamper写法和各个函数原理介绍。
+并且会不定时更新新的temper脚本和我自写的temper脚本。
+同时欢迎大家分享个人temper脚本或者国外的temper脚本的个人注释 到此项目中
+
 Apostrophemask
 先看一下他的作用
 功能：对引号进行utf-8格式编码(%EF%BC%87)
